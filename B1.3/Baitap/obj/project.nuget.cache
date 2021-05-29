@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nm/BlAkY9yJ2wUSKjmoGsvVKbZGqPn2H+OUBdYIfzZQY6oe+05RN4UEtkFCgCWyU4Et6kced7jBBUt8eBiEXzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xkhan\\source\\repos\\Baitap\\Baitap\\Baitap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xkhan\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\xkhan\\.nuget\\packages\\microsoft.win32.registry\\4.4.0\\microsoft.win32.registry.4.4.0.nupkg.sha512",
+    "C:\\Users\\xkhan\\.nuget\\packages\\system.security.accesscontrol\\4.4.0\\system.security.accesscontrol.4.4.0.nupkg.sha512",
+    "C:\\Users\\xkhan\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

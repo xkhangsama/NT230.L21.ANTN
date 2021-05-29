@@ -1,0 +1,13 @@
+C:\Users\xkhan\source\repos\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.exe
+C:\Users\xkhan\source\repos\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.deps.json
+C:\Users\xkhan\source\repos\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.runtimeconfig.json
+C:\Users\xkhan\source\repos\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.runtimeconfig.dev.json
+C:\Users\xkhan\source\repos\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.dll
+C:\Users\xkhan\source\repos\Baitap\Baitap\bin\Debug\netcoreapp3.1\Baitap.pdb
+C:\Users\xkhan\source\repos\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.AssemblyInfoInputs.cache
+C:\Users\xkhan\source\repos\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.AssemblyInfo.cs
+C:\Users\xkhan\source\repos\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.dll
+C:\Users\xkhan\source\repos\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.pdb
+C:\Users\xkhan\source\repos\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.genruntimeconfig.cache
+C:\Users\xkhan\source\repos\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.csprojAssemblyReference.cache
+C:\Users\xkhan\source\repos\Baitap\Baitap\obj\Debug\netcoreapp3.1\Baitap.csproj.CoreCompileInputs.cache
